@@ -2,55 +2,55 @@
 
 <enemies>
 
-  <enemy type =" enemyType1" >
-    <hp> 100 </hp>
-    <defence> 30 </defence>
-    <atackSpeed> 0.75 </atackSpeed>
-    <damage> 25 </damage>
-    <xp> 5 </xp>
+  <enemy type ="enemyType1">
+    <hp>100</hp>
+    <defense>30</defense>
+    <attackSpeed>0.75</attackSpeed>
+    <damage>25</damage>
+    <xp>5</xp>
     <weapon>
-      <id> 1 </id>
-      <type> Sword </type>
-      <range> 50 </range>
+      <id>1</id>
+      <type>Sword</type>
+      <range>50</range>
     </weapon>
   </enemy>
   
-  <enemy type =" enemyType2" >
-    <hp> 100 </hp>
-    <defence> 30 </defence>
-    <atackSpeed> 0.75 </atackSpeed>
-    <damage> 25 </damage>
-    <xp> 5 </xp>
+  <enemy type ="enemyType2" >
+    <hp>5</hp>
+    <defense>30</defense>
+    <attackSpeed>0.75</attackSpeed>
+    <damage>25</damage>
+    <xp>5</xp>
     <weapon>
-      <id> 2 </id>
-      <type> Bow </type>
-      <range> 500 </range>
+      <id>2</id>
+      <type>Bow</type>
+      <range>500</range>
     </weapon>
   </enemy>
   
-  <enemy type =" enemyType3" >
-    <hp> 100 </hp>
-    <defence> 30 </defence>
-    <atackSpeed> 0.75 </atackSpeed>
-    <damage> 25 </damage>
-    <xp> 5 </xp>
+  <enemy type ="enemyType3">
+    <hp>3</hp>
+    <defense>30</defense>
+    <attackSpeed>0.75</attackSpeed>
+    <damage>25</damage>
+    <xp>5</xp>
     <weapon>
-      <id> 3 </id>
-      <type> Large Sword </type>
-      <range> 100 </range>
+      <id>3</id>
+      <type>Large Sword</type>
+      <range>100</range>
     </weapon>
   </enemy>
   
-  <enemy type =" enemyType4" >
-    <hp> 100 </hp>
-    <defence> 30 </defence>
-    <atackSpeed> 0.75 </atackSpeed>
-    <damage> 25 </damage>
-    <xp> 5 </xp>
+  <enemy type ="enemyType4">
+    <hp>55</hp>
+    <defense>30</defense>
+    <attackSpeed> 0.75 </attackSpeed>
+    <damage>25</damage>
+    <xp>5</xp>
     <weapon>
-      <id> 4 </id>
-      <type> Axe </type>
-      <range> 120 </range>
+      <id>4</id>
+      <type>Axe</type>
+      <range>120</range>
     </weapon>
   </enemy>
 </enemies>
